@@ -1,0 +1,32 @@
+Some unrelated line.
+Some unrelated line.
+	1, First,Time:0x01
+	libB.dll!ClassA1::methodA1
+	libA.dll!funcA2
+	libA.dll!funcA1
+	app.exe!f0
+	app.exe!main
+	
+	3, Third,Time:0x03
+	libB.dll!ClassA2::methodA1
+	libA.dll!funcA2
+	libA.dll!funcA1
+	app.exe!f0
+	app.exe!main
+	
+	2, Second,Time:0x02
+	libB.dll!ClassA2::methodA1
+	libA.dll!funcA2
+	libA.dll!funcA1
+	app.exe!f0
+	app.exe!main
+	
+Some unrelated line.
+	4, Fourth,Time:0x04
+	libB.dll!ClassA1::methodA1
+	libA.dll!funcA3
+	libA.dll!funcA1
+	app.exe!f0
+	app.exe!main
+
+Some unrelated line.

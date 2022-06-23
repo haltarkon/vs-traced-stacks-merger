@@ -1,0 +1,12 @@
+app.exe!main
+app.exe!f0
+libA.dll!funcA1
+libA.dll!funcA2
+	libB.dll!ClassA1::methodA1
+		1, First
+	libB.dll!ClassA2::methodA1
+		2, Second
+		3, Third
+libA.dll!funcA3
+	libB.dll!ClassA1::methodA1
+		4, Fourth
